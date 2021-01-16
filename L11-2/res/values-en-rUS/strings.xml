@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DatePicker And TimePicker</string>
+    <string name="date_picker_dialog">DateSetting</string>
+    <string name="time_picker_dialog">TimeSetting</string>
+</resources>
