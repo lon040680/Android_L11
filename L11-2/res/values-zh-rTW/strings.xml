@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">日期設定和時機設定對話盒</string>
-    <string name="date_picker_dialog">日期設定跳窗</string>
-    <string name="time_picker_dialog">時間設定跳窗</string>
-</resources>
